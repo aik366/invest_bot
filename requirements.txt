@@ -1,0 +1,5 @@
+t-tech-investments
+python-dotenv
+rich
+pandas
+openpyxl
